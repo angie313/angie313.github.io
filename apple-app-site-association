@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Y4P59NCZ55.com.centegix.flight.responder",
+        "paths": [
+          "",
+          "/",
+          "/auth/login",
+          "/dashboard",
+          "/dashboard/*"
+        ]
+      }
+    ]
+  }
+}
